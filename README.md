@@ -1,4 +1,4 @@
-![Header](https://github.com/viri-xm/viri-xm/blob/main/assets/Val.png)
+![Header](https://github.com/viri-xm/viri-xm/blob/master/assets/Val.png)
 
 ## About me
 - Python Devoloper 
